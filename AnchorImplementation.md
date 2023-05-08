@@ -1,4 +1,11 @@
 
+## Introduction
+- Stellar Wallets does not hold digital cash
+- They allow users to view the history and current state of the ledger
+- They also allow users to sign and submit transactions
+- Accounts, balances and offers to buy and sell assets are stored on the ledger
+- Stellar wallet can also hold references or caches to the database
+
 ## Anchor platform setup
 - Deployment of anchor services related to hosted deposits and withdrawals
 - Installation of the Stellar Anchor Platform
