@@ -8,7 +8,8 @@
 - They can provide access to liquidity
 - They can integrate with Stellar Ecosystem Protocols to interoperate with other projects
 
-
+## Workflow
+- Anchor requires two separate accounts - an issuing account and a base account
 
 ## Deployment
 - Deployment of stellar anchor platform in an infrastructure provider is the first step. 
